@@ -1,0 +1,17 @@
+#katrori{
+    height: 300px;
+    width: 300px;
+    background-color: red;
+}
+
+#katrori2{
+    height: 300px;
+    width: 300px;
+    background-color: blue
+    
+}
+
+body{
+    display: flex;
+    justify-content: space-between;
+}
